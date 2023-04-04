@@ -1,6 +1,6 @@
 # ImersaoAluraJava2
 
-- Aula1
+- Aula1\n
   Ultilizando o API do IMDB retornando os "250 Melhores filmes"
   Foi ultilizado a biblioteca java.net para obter esses dados dentro da IDE
  Para tratamento dos dados foi criado uma classes JsonParser

@@ -31,5 +31,17 @@ Resultado:
 
 
 
+- Aula3 - Refatorando o codigo
+
+Nessa aula foi feito a refatoração do codigo, criando novas classe como: 
+
+-Classe ClienteHttp: aonde vamos fazer a leitura da API e devolve um json em String.
+
+-Classe Conteudo: que serve para comunicação de dados, para classe ExtratorConteudoNasa e ExtratorConteudoImdb.
+
+-Classe ExtratorConteudoNasa e ExtratorConteudoImdb: filtra o necessario da String em json
+
+
+
 
 
